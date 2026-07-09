@@ -1,0 +1,21 @@
+json
+{
+    "labels": [
+        "Síndrome gripal",
+        "Dor abdominal",
+        "Hipertensão",
+        "Trauma",
+        "Outros"
+    ],
+
+    "valores": [
+        28,
+        16,
+        12,
+        10,
+        34
+    ]
+}
+
+
+---
