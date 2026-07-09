@@ -1,0 +1,43 @@
+css
+:root {
+
+    /* Cores institucionais */
+
+    --azul-principal:#12385D;
+
+    --azul-escuro:#0A2747;
+
+    --dourado:#C8A463;
+
+    --bege:#EFE4D2;
+
+    --cinza:#F5F6F8;
+
+    --branco:#FFFFFF;
+
+
+    /* Texto */
+
+    --texto:#263238;
+
+
+    /* Sistema */
+
+    --radius:16px;
+
+    --shadow:
+    0 10px 30px rgba(0,0,0,.08);
+
+
+    /* Fonte */
+
+    --titulo:
+    'Montserrat', sans-serif;
+
+    --texto:
+    'Inter', sans-serif;
+
+}
+
+
+---
